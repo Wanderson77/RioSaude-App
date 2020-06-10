@@ -3,7 +3,7 @@
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
-![App Demo](/src/assets/app-rio-praias.png "App Demo")
+![App Demo](/src/assets/app_rio-saude.jpeg "App Demo")
 
 ## Mobile Apps
 
@@ -23,7 +23,7 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 ## JS Features
 
 + TDD / Jest / Enzime
-+ Hooks
++ Classes
 
 ## Firebase Features
 
