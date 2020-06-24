@@ -12,6 +12,7 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
 ## React Native Features
 
++ Class Components
 + AirBnB styles
 + Sliding Card
 + Map animation
