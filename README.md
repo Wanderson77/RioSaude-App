@@ -25,6 +25,7 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
 + TDD / Jest / Enzime
 + Classes
++ Autenticação JWT
 
 ## Firebase Features
 
