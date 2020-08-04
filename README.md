@@ -14,11 +14,15 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
 + Class Components
 + AirBnB styles
++ Styled Components
++ React Navigation
++ React Native Camera
++ Material UI / Bootstrap
++ Context API
 + Sliding Card
 + Map animation
 + Imagens com LazyLoad
 + Scroll infinito
-+ Facebook Login
 + Place Graph
 
 ## JS Features
