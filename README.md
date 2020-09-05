@@ -1,6 +1,6 @@
 # App Saúde Pública .RIO
 
-> Este APP tem a função de aproximar e facilitar o acesso as principais ações de saúde pública do estado do Rio de Janeiro.
+> Este APP tem a função de aproximar e facilitar o acesso as principais ações de saúde pública no estado do Rio de Janeiro e impactar milhares de vidas positivamente através da tecnologia.
 
 ![App Demo](/src/assets/app_rio-saude.jpeg "App Demo")
 
