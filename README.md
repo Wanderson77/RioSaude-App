@@ -12,6 +12,7 @@
 + Facebook Login
 + Geolocalização
 + Recuperação de senha e envio de e-mail
++ Sistema de Avaliação e Comentários
 
 ## React Native Features
 
