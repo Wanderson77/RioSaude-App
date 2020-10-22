@@ -1,6 +1,10 @@
 # App Saúde Pública .RIO
-
+>
+> Uma nova opção para quem depende exclusivamente dos serviços públicos.
+>
 > Este APP tem a função de aproximar e facilitar o acesso as principais ações de saúde pública no estado do Rio de Janeiro e impactar milhares de vidas positivamente através da tecnologia.
+>
+> Com Saúde Pública .Rio você tem acesso a mais de 400 espaços de trabalho em todo o estado e a uma rede de pessoas!
 
 ![App Demo](/src/assets/app_rio-saude.jpeg "App Demo")
 
