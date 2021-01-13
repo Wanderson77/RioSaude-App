@@ -1,4 +1,4 @@
-# App Saúde Pública .RIO
+# App Saúde Pública .RIO :octocat:
 >
 > Uma nova opção para quem depende exclusivamente dos serviços públicos.
 >
@@ -60,7 +60,5 @@
 ## Monetização
 
 + In App Purchase
-
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
