@@ -18,10 +18,10 @@
 + Recuperação de senha e envio de e-mail
 + Sistema de Avaliação e Comentários
 
-## React Native Features
+## React Native / I Love This
 
-+ Class Components
-+ AirBnB styles
++ Hooks
++ Core Components
 + Styled Components
 + React Navigation
 + React Native Camera
@@ -36,10 +36,9 @@
 ## JS Features
 
 + TDD / Jest / Enzime
-+ Classes
 + Autenticação JWT
 
-## Firebase Features
+## Firebase
 
 + Authentication
 + RealTime db
@@ -51,7 +50,7 @@
 
 ## DX
 
-+ VSCode + TypeScript | JavaScript
++ VSCode + TypeScript | JavaScript (es6)
 + Linter Style AirBnB + Prettier
 + Figma + Storybook
 + ReactoTron
