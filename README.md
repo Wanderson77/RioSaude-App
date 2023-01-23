@@ -34,9 +34,6 @@
 + Scroll infinito
 + Place Graph
 
-## JS Features
-
-+ TDD / Jest / Enzime
 + Autenticação JWT
 
 ## Firebase
@@ -58,7 +55,7 @@
 + Flipper
 + Husky + Lint-staged
 + CommitLint + Commitizen
-+ Tests (Jest / React Test Library / Detox)
++ TDD (Jest / React Test Library / Detox / Enzime)
 + GraphQL | API Rest
 + Insomnia | Postman
 + CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
