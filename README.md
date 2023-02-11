@@ -25,15 +25,16 @@
 + FlexBox Layout
 + Styled Components
 + React Navigation
++ Material UI+
 + React Native Camera
-+ Material UI / Bootstrap
-+ Context API
 + Sliding Card
 + Map animation
 + Imagens com LazyLoad
 + Scroll infinito
 + Place Graph
 + Autenticação JWT
++ Context API
++ Google Maps API
 
 ## Firebase
 
