@@ -29,9 +29,6 @@
 + Material UI+
 + React Native Camera
 + Sliding Card
-+ Map animation
-+ Imagens com LazyLoad
-+ Scroll infinito
 + Place Graph
 + Autenticação JWT
 + Context API
