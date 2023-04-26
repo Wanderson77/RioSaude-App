@@ -6,7 +6,16 @@ const styles = StyleSheet.create({
     backgroundColor: '#FFFF',
     alignItems: 'center',
     justifyContent: 'center',
-    height: '50%',
-    width: '50%',
-  }
+    height: 50,
+    width: 50,
+  },
+  img:{
+    height: 50,
+    width: 50,
+    borderRadius: 20,
+    top: 50,
+    left: 50,
+    right: 50,
+    bottom: 50,
+  },
 })
