@@ -45,21 +45,6 @@
 + AppIndex
 + AdMob
 
-## DX
-
-+ VSCode + TypeScript | JavaScript (es6)
-+ Linter Style AirBnB + Prettier
-+ Figma + Storybook
-+ ReactoTron
-+ Flipper
-+ Husky + Lint-staged
-+ CommitLint + Commitizen
-+ TDD (Jest / React Test Library / Detox / Enzime)
-+ GraphQL | API Rest
-+ Insomnia | Postman
-+ CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
-+ Docker | Kubernetes
-
 ## Monetização
 
 + In App Purchase
