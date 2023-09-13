@@ -35,18 +35,4 @@
 + Google Maps API
 + ... e mais
 
-## Firebase
-
-+ Authentication
-+ RealTime db
-+ Analytics
-+ Cloud Messaging
-+ Storage
-+ AppIndex
-+ AdMob
-
-## Monetização
-
-+ In App Purchase
-
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
