@@ -19,20 +19,4 @@
 + Sistema de Avaliação e Comentários
 + Offline First
 
-## React Native / I Love This
-
-+ Hooks
-+ Core Components
-+ FlexBox Layout
-+ Styled Components
-+ React Navigation
-+ Material UI+
-+ React Native Camera
-+ Sliding Card
-+ Place Graph
-+ Autenticação JWT
-+ Context API
-+ Google Maps API
-+ ... e mais
-
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
