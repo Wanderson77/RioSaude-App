@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.72.6",
     "styled-components": "^5.2.0"
   },
   "devDependencies": {
